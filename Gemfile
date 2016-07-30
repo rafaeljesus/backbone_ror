@@ -38,4 +38,5 @@ group :test do
   gem "launchy"
   gem "guard-spork"
   gem "spork", "~> 0.9.0.rc"
+  gem 'codeclimate-test-reporter', require: nil
 end
